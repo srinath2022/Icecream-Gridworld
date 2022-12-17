@@ -1,0 +1,1 @@
+Disclaimer: This python script was based mostly off https://blog.quantinsti.com/kalman-filter/ wehre they do a great job formulatig library and explaing python necessary to formiulate. This weeks was not focused on in class problems but rather using kallman for real world problems
